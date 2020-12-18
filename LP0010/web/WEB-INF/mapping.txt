@@ -1,0 +1,3 @@
+login.html=loginPageStatic
+login.jsp=loginPage
+search.jsp=searchPage
